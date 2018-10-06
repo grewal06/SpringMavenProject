@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/maven spring framework mvc 4.0.6/spring-webmvc-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/maven spring framework mvc 4.0.6/spring-web-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/maven spring framework mvc 4.0.6/spring-expression-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/maven spring framework mvc 4.0.6/spring-core-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/maven spring framework mvc 4.0.6/spring-context-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/maven spring framework mvc 4.0.6/spring-beans-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/maven spring framework mvc 4.0.6/spring-aop-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/maven spring framework mvc 4.0.6/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/maven spring framework mvc 4.0.6/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/org.framerwork.web 4.1.2/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/org.framerwork.web 4.1.2/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/org.framerwork.web 4.1.2/spring-aop-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/org.framerwork.web 4.1.2/spring-beans-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/org.framerwork.web 4.1.2/spring-context-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/org.framerwork.web 4.1.2/spring-core-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/org.framerwork.web 4.1.2/spring-expression-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/org.framerwork.web 4.1.2/spring-web-4.1.2.RELEASE.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/grewa/Desktop/eclipse programs/mysql-connector-java-8.0.12/mysql-connector-java-8.0.12/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
